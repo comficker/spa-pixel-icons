@@ -1,0 +1,29 @@
+{
+  "name": "spa-pixel-icons",
+  "version": "0.1.0",
+  "description": "95 pixel art icons on a 5×5 grid — SVG + PNG, CC BY 4.0. By simplepixelart.com",
+  "license": "CC-BY-4.0",
+  "homepage": "https://simplepixelart.com",
+  "author": "SimplePixelArt (https://simplepixelart.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comficker/spa-pixel-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/comficker/spa-pixel-icons/issues"
+  },
+  "files": [
+    "svg/",
+    "icons.json"
+  ],
+  "keywords": [
+    "pixel-art",
+    "icons",
+    "svg-icons",
+    "pixel-icons",
+    "icon-set",
+    "8-bit",
+    "game-ui",
+    "svg"
+  ]
+}
